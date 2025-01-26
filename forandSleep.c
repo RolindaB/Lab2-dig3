@@ -1,3 +1,11 @@
+%Universidad Del Valle de Guatemala 1
+%Facultad de Ingeniería
+%IE3059 – Electrónica Digital 3
+%Aatryd Rolinda Beb Caal
+%Carne 22274
+%Sección 11
+%Lab 2
+
 #include <stdio.h>
 #include <unistd.h>
 int main()
